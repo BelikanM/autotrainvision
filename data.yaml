@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/mechanical_dataset/dataset/images/train
+val: /content/drive/MyDrive/mechanical_dataset/dataset/images/val
+names: ['bouteille déshydratante pour kia', "durite d'admission d'air pour kia"]
+nc: 2
