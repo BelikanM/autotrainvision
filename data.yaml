@@ -1,4 +1,4 @@
 train: /content/drive/MyDrive/mechanical_dataset/dataset/images/train
 val: /content/drive/MyDrive/mechanical_dataset/dataset/images/val
-names: ['bouteille déshydratante pour kia', "durite d'admission d'air pour kia"]
-nc: 2
+names: ['allumeur', 'amortisseur', 'arbre', 'bague', 'bielle', 'bobine', 'boîtier', 'bouchon', 'bougie', 'boulon', 'bouteille', 'bride', 'cache-culbuteur', 'calculateur', 'cale', 'capteur', 'carter', 'câble', 'chaîne', 'chemises', 'circuit', 'collecteur', 'composants', 'courroie', 'coussinet', 'culasse', 'culbuteur', 'débitmètre', 'dispositif', 'doigt', 'durite', 'embrayage', 'électrovanne', 'faisceau', 'fiche', 'filtre', 'filtre,', 'flexible', 'galet', 'guide', 'huile', 'injecteur', 'intercooler', 'jauge', 'jeu', 'joint', 'joints', 'kit', 'liquide', 'manche,', 'module', 'pignon', 'piston', 'pochette', 'pompe', 'poulie', 'poulie,', 'poulie-tendeur,', 'poulies', 'poussoir', 'radiateur', 'rampe', 'refroidisseur', 'relais', 'reniflard', 'régulateur', 'segment', 'semelle', 'sonde', 'soupape', 'support', 'tendeur', 'tête', 'thermocontact', 'thermostat', 'transmission,', 'turbo', 'tuyau', 'valve', 'valve,', 'vanne', 'vase', 'ventilateur', 'vilebrequin', 'vis', 'volant']
+nc: 86
